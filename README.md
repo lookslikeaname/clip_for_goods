@@ -1,6 +1,6 @@
 # clip_for_goods
 
-# 🛍️ Semantic Fashion Search with Fine-Tuned CLIP
+# Semantic Fashion Search with Fine-Tuned CLIP
 
 This project implements a text-to-image search engine specifically tailored for the fashion domain. By fine-tuning OpenAI's **CLIP (Contrastive Language-Image Pre-Training)** model, the system understands fashion-specific attributes (textures, styles, cuts) significantly better than the base model.
 
